@@ -1,3 +1,3 @@
-# TextUtils
-#Demo
-text-utilss-react.netlify.app
+# TextUtils Demo
+
+https://text-utilss-react.netlify.app/
